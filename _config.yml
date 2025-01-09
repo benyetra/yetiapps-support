@@ -1,0 +1,6 @@
+title: "Yetimonstah Support"
+description: "Support and FAQs for the Intentsify app."
+baseurl: "" # Leave blank unless hosting in a subdirectory
+url: "https://yetimonstah.com" # Replace with your live site URL
+theme: jekyll-theme-cayman
+markdown: kramdown
