@@ -12,20 +12,10 @@ If you need help with YetiApps, please reach out to us:
 - Email: [support@yetimonstah.com](mailto:support@yetimonstah.com)
 
 ## Frequently Asked Questions (FAQs)
-- [How do I reset my password?](#how-do-i-reset-my-password)
 - [How do I update my profile?](#how-do-i-update-my-profile)
-- [How do I log my activities?](#how-do-i-log-my-activities)
+- [How do I log my moments?](#how-do-i-log-my-moments)
 - [How do I access my trends?](#how-do-i-access-my-trends)
 - [How do I manage notifications?](#how-do-i-manage-notifications)
-
----
-
-### How do I reset my password?
-To reset your password:
-1. Open the Intentsify app and go to the login screen.
-2. Tap on "Forgot Password."
-3. Enter your registered email address and tap "Submit."
-4. Check your email for a reset link and follow the instructions.
 
 ---
 
@@ -38,7 +28,7 @@ To update your profile:
 
 ---
 
-### How do I log my activities?
+### How do I log my moments?
 Logging activities is simple:
 1. Open the app and navigate to the "Moments" section.
 2. Tap the "Add Moment" button.
