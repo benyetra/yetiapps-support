@@ -1,11 +1,8 @@
 title: "YetiApps Support"
 description: "Support and FAQs for the Intentsify app."
-baseurl: "" # Keep blank unless hosting in a subdirectory
-url: "https://support.yetimonstah.com/" # Replace with your live site URL
-
-# Theme configuration
+baseurl: "" # Leave blank unless hosted in a subdirectory
+url: "https://benyetra.github.io/yetimonstah-support" # Replace with the correct URL
 theme: jekyll-theme-cayman
 markdown: kramdown
-permalink: pretty
 include:
   - assets/css
