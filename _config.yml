@@ -1,6 +1,6 @@
 title: "YetiApps Support"
 description: "Support and FAQs for the Intentsify app."
-baseurl: "" # Leave blank unless hosted in a subdirectory
+#baseurl: "" # Leave blank unless hosted in a subdirectory
 url: "https://benyetra.github.io/yetimonstah-support" # Replace with the correct URL
 theme: jekyll-theme-cayman
 markdown: kramdown
