@@ -1,6 +1,6 @@
-# Yetimonstah Support Page
+# YetiApps Support Page
 
-This repository contains the code for the support page of the Yetimonstah app. The support page provides users with assistance and answers to frequently asked questions about the Intentsify app.
+This repository contains the code for the support page of the YetiApps app. The support page provides users with assistance and answers to frequently asked questions about the Intentsify app.
 
 ## Features
 - **Contact Information**: Users can find email support to address their issues.
